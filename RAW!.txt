@@ -1,0 +1,4 @@
+import json
+
+#load file result = json.loads(url)  # result is now a dict
+print '"networkdiff":', result['getpoolstatus']['data']['networkdiff']

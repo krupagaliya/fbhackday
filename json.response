@@ -1,0 +1,775 @@
+{
+  "items": [
+    {
+      "tags": [
+        "python",
+        "input",
+        "sum",
+        "grok"
+      ],
+      "owner": {
+        "reputation": 1,
+        "user_id": 8934416,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/4bc0c1183d8d567dae4c1b2b50e716f2?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Oscar Lam",
+        "link": "https://stackoverflow.com/users/8934416/oscar-lam"
+      },
+      "is_answered": false,
+      "view_count": 25,
+      "answer_count": 2,
+      "score": -1,
+      "last_activity_date": 1510597592,
+      "creation_date": 1510596447,
+      "last_edit_date": 1510596879,
+      "question_id": 47270789,
+      "link": "https://stackoverflow.com/questions/47270789/typeerror-unsupported-operand-types-for-int-and-str-with-input",
+      "title": "{TypeError: unsupported operand type(s) for +: &#39;int&#39; and &#39;str&#39;} with input"
+    },
+    {
+      "tags": [
+        "python",
+        "string",
+        "types",
+        "int",
+        "typeerror"
+      ],
+      "owner": {
+        "reputation": 3,
+        "user_id": 8902024,
+        "user_type": "registered",
+        "profile_image": "https://lh5.googleusercontent.com/-t415rcM7Gm0/AAAAAAAAAAI/AAAAAAAAAlE/xZn2wRW1z7I/photo.jpg?sz=128",
+        "display_name": "Tom Liversidge",
+        "link": "https://stackoverflow.com/users/8902024/tom-liversidge"
+      },
+      "is_answered": true,
+      "view_count": 43,
+      "accepted_answer_id": 47165410,
+      "answer_count": 3,
+      "score": 0,
+      "last_activity_date": 1510080632,
+      "creation_date": 1510079880,
+      "last_edit_date": 1510080320,
+      "question_id": 47165189,
+      "link": "https://stackoverflow.com/questions/47165189/typeerror-unsupported-operand-types-for-int-and-str-cant-seem-to-con",
+      "title": "TypeError: unsupported operand type(s) for +: &#39;int&#39; and &#39;str&#39; - Cant seem to convert list"
+    },
+    {
+      "tags": [
+        "python-3.x"
+      ],
+      "owner": {
+        "reputation": 34,
+        "user_id": 8687764,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/c9ce1e5b0b6c550039bb7b06151c894d?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Neil Smith",
+        "link": "https://stackoverflow.com/users/8687764/neil-smith"
+      },
+      "is_answered": true,
+      "view_count": 21,
+      "accepted_answer_id": 46836362,
+      "answer_count": 1,
+      "score": 1,
+      "last_activity_date": 1508436878,
+      "creation_date": 1508435977,
+      "question_id": 46836135,
+      "link": "https://stackoverflow.com/questions/46836135/why-am-i-getting-error-typeerror-unsupported-operand-types-for-int-and",
+      "title": "Why am I getting error. TypeError: unsupported operand type(s) for +: &#39;int&#39; and &#39;str&#39;?"
+    },
+    {
+      "tags": [
+        "python-3.x"
+      ],
+      "owner": {
+        "reputation": 1,
+        "user_id": 8726148,
+        "user_type": "registered",
+        "profile_image": "https://graph.facebook.com/1456839421066084/picture?type=large",
+        "display_name": "Reza Rivaldo",
+        "link": "https://stackoverflow.com/users/8726148/reza-rivaldo"
+      },
+      "is_answered": false,
+      "view_count": 15,
+      "closed_date": 1507222607,
+      "answer_count": 1,
+      "score": -3,
+      "last_activity_date": 1507207127,
+      "creation_date": 1507206728,
+      "question_id": 46585728,
+      "link": "https://stackoverflow.com/questions/46585728/umur-thnsaiki-thnlahir-typeerror-unsupported-operand-types-for-int-a",
+      "closed_reason": "duplicate",
+      "title": "umur = thnsaiki - thnlahir TypeError: unsupported operand type(s) for -: &#39;int&#39; and &#39;str&#39;"
+    },
+    {
+      "tags": [
+        "python"
+      ],
+      "owner": {
+        "reputation": 17,
+        "user_id": 5292423,
+        "user_type": "registered",
+        "accept_rate": 60,
+        "profile_image": "https://www.gravatar.com/avatar/9d3074b96856cc919079a19c71e67786?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Joe",
+        "link": "https://stackoverflow.com/users/5292423/joe"
+      },
+      "is_answered": false,
+      "view_count": 44,
+      "answer_count": 1,
+      "score": 1,
+      "last_activity_date": 1503123864,
+      "creation_date": 1503122610,
+      "question_id": 45768254,
+      "link": "https://stackoverflow.com/questions/45768254/python-3-typeerror-unsupported-operand-types-for-int-and-str",
+      "title": "Python 3 - TypeError: unsupported operand type(s) for -: &#39;int&#39; and &#39;str&#39;"
+    },
+    {
+      "tags": [
+        "python"
+      ],
+      "owner": {
+        "reputation": 24,
+        "user_id": 8346810,
+        "user_type": "registered",
+        "accept_rate": 50,
+        "profile_image": "https://lh3.googleusercontent.com/-Hu6TViAVwL4/AAAAAAAAAAI/AAAAAAAAAhc/xIS1TDS65t0/photo.jpg?sz=128",
+        "display_name": "CJ Peine",
+        "link": "https://stackoverflow.com/users/8346810/cj-peine"
+      },
+      "is_answered": true,
+      "view_count": 89,
+      "answer_count": 2,
+      "score": 2,
+      "last_activity_date": 1502095159,
+      "creation_date": 1502078178,
+      "last_edit_date": 1502095159,
+      "question_id": 45539185,
+      "link": "https://stackoverflow.com/questions/45539185/python-error-typeerror-unsupported-operand-types-for-int-and-str",
+      "title": "Python Error: TypeError: unsupported operand type(s) for +: &#39;int&#39; and &#39;str&#39;"
+    },
+    {
+      "tags": [
+        "python"
+      ],
+      "owner": {
+        "reputation": 6,
+        "user_id": 4724331,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/9acacfde0dfe8a880e002f38128a8f85?s=128&d=identicon&r=PG",
+        "display_name": "shivam",
+        "link": "https://stackoverflow.com/users/4724331/shivam"
+      },
+      "is_answered": false,
+      "view_count": 408,
+      "answer_count": 2,
+      "score": 1,
+      "last_activity_date": 1498980772,
+      "creation_date": 1429188395,
+      "last_edit_date": 1429188458,
+      "question_id": 29675160,
+      "link": "https://stackoverflow.com/questions/29675160/compute-billapple-resulted-in-a-typeerror-unsupported-operand-types-for",
+      "title": "compute_bill([&#39;apple&#39;]) resulted in a TypeError: unsupported operand type(s) for +=: &#39;int&#39; and &#39;str&#39;"
+    },
+    {
+      "tags": [
+        "python",
+        "python-3.x",
+        "tkinter",
+        "typeerror"
+      ],
+      "owner": {
+        "reputation": 13,
+        "user_id": 7638110,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/51bbfb9e83c45e1c75f1efd1f3bca1f4?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Timothy1224",
+        "link": "https://stackoverflow.com/users/7638110/timothy1224"
+      },
+      "is_answered": true,
+      "view_count": 78,
+      "accepted_answer_id": 42721800,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1497203004,
+      "creation_date": 1489137611,
+      "last_edit_date": 1497203004,
+      "question_id": 42714591,
+      "link": "https://stackoverflow.com/questions/42714591/typeerror-unsupported-operand-types-for-int-and-str-when-making-grid",
+      "title": "TypeError: unsupported operand type(s) for /: &#39;int&#39; and &#39;str&#39; when making grid"
+    },
+    {
+      "tags": [
+        "python-3.x"
+      ],
+      "owner": {
+        "reputation": 1,
+        "user_id": 8054376,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/b88c82b4d3dfefedb2c5b2b5881bfb6f?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Derek Phillips",
+        "link": "https://stackoverflow.com/users/8054376/derek-phillips"
+      },
+      "is_answered": true,
+      "view_count": 56,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1495552878,
+      "creation_date": 1495552389,
+      "last_edit_date": 1495552545,
+      "question_id": 44138754,
+      "link": "https://stackoverflow.com/questions/44138754/python-3-error-typeerror-unsupported-operand-types-for-int-and-str",
+      "title": "Python 3 Error: TypeError: unsupported operand type(s) for +=: &#39;int&#39; and &#39;str&#39;"
+    },
+    {
+      "tags": [
+        "python",
+        "python-3.x"
+      ],
+      "owner": {
+        "reputation": 1,
+        "user_id": 7758595,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/3bab15b8f6b854e9eef7873d392a10b8?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Abobaker Anwar",
+        "link": "https://stackoverflow.com/users/7758595/abobaker-anwar"
+      },
+      "is_answered": false,
+      "view_count": 53,
+      "answer_count": 1,
+      "score": -3,
+      "last_activity_date": 1494364593,
+      "creation_date": 1494363701,
+      "question_id": 43879813,
+      "link": "https://stackoverflow.com/questions/43879813/typeerror-unsupported-operand-types-for-int-and-str-return-sumnumbe",
+      "title": "TypeError: unsupported operand type(s) for +: &#39;int&#39; and &#39;str&#39;:- return sum(numbers) / float(len(numbers))"
+    },
+    {
+      "tags": [
+        "python",
+        "python-3.x"
+      ],
+      "owner": {
+        "reputation": 11,
+        "user_id": 7619835,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/e436e841d578ee1272dcb4f6e2f5f5d9?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Bugaboo",
+        "link": "https://stackoverflow.com/users/7619835/bugaboo"
+      },
+      "is_answered": false,
+      "view_count": 39,
+      "closed_date": 1492790839,
+      "answer_count": 2,
+      "score": 0,
+      "last_activity_date": 1492742974,
+      "creation_date": 1492740119,
+      "question_id": 43532719,
+      "link": "https://stackoverflow.com/questions/43532719/getting-a-typeerror-unsupported-operand-types-for-int-and-str",
+      "closed_reason": "duplicate",
+      "title": "Getting a TypeError: unsupported operand type(s) for +: &#39;int&#39; and &#39;str&#39;"
+    },
+    {
+      "tags": [
+        "python",
+        "python-3.x",
+        "typeerror",
+        "icmp",
+        "traceback"
+      ],
+      "owner": {
+        "reputation": 76,
+        "user_id": 1532437,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/9d8a4c1625cfb9bc5401feafbf0fc0ee?s=128&d=identicon&r=PG",
+        "display_name": "user1532437",
+        "link": "https://stackoverflow.com/users/1532437/user1532437"
+      },
+      "is_answered": false,
+      "view_count": 54,
+      "answer_count": 1,
+      "score": 2,
+      "last_activity_date": 1490787035,
+      "creation_date": 1490786377,
+      "question_id": 43092055,
+      "link": "https://stackoverflow.com/questions/43092055/traceback-most-recent-call-last-typeerror-unsupported-operand-types-for",
+      "title": "Traceback (most recent call last) &amp; TypeError: unsupported operand type(s) for +: &#39;int&#39; and &#39;str&#39;"
+    },
+    {
+      "tags": [
+        "python",
+        "python-3.x",
+        "tkinter",
+        "find",
+        "typeerror"
+      ],
+      "owner": {
+        "reputation": 3,
+        "user_id": 7685856,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/2ca41c5a61cf98df6bc849bad83c13ee?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Ben2508",
+        "link": "https://stackoverflow.com/users/7685856/ben2508"
+      },
+      "is_answered": true,
+      "view_count": 45,
+      "accepted_answer_id": 42704172,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1489088867,
+      "creation_date": 1489080819,
+      "last_edit_date": 1489080921,
+      "question_id": 42701877,
+      "link": "https://stackoverflow.com/questions/42701877/str-find-typeerror-unsupported-operand-types-for-int-and-str",
+      "title": "str.find() = TypeError: unsupported operand type(s) for +: &#39;int&#39; and &#39;str&#39; ..?"
+    },
+    {
+      "tags": [
+        "python"
+      ],
+      "owner": {
+        "reputation": 1,
+        "user_id": 7590938,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/f25355fa66b5be740520d5252c324a59?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Ediliza Peralta",
+        "link": "https://stackoverflow.com/users/7590938/ediliza-peralta"
+      },
+      "is_answered": false,
+      "view_count": 47,
+      "answer_count": 2,
+      "score": -3,
+      "last_activity_date": 1488052846,
+      "creation_date": 1488050511,
+      "last_edit_date": 1488050538,
+      "question_id": 42460560,
+      "link": "https://stackoverflow.com/questions/42460560/i-get-this-syntax-error-typeerror-unsupported-operand-types-for-int-and",
+      "title": "I get this syntax error: TypeError: unsupported operand type(s) for +: &#39;int&#39; and &#39;str&#39;"
+    },
+    {
+      "tags": [
+        "python",
+        "python-3.x"
+      ],
+      "owner": {
+        "reputation": 1,
+        "user_id": 7590445,
+        "user_type": "registered",
+        "profile_image": "https://graph.facebook.com/1839034826335566/picture?type=large",
+        "display_name": "Louis Guo",
+        "link": "https://stackoverflow.com/users/7590445/louis-guo"
+      },
+      "is_answered": false,
+      "view_count": 263,
+      "closed_date": 1487552916,
+      "answer_count": 1,
+      "score": -2,
+      "last_activity_date": 1487562411,
+      "creation_date": 1487552692,
+      "last_edit_date": 1487562411,
+      "question_id": 42334924,
+      "link": "https://stackoverflow.com/questions/42334924/typeerror-unsupported-operand-types-for-int-and-str",
+      "closed_reason": "duplicate",
+      "title": "TypeError: unsupported operand type(s) for +: &quot;int&quot; and &quot;str&quot;"
+    },
+    {
+      "tags": [
+        "python",
+        "python-3.4",
+        "typeerror"
+      ],
+      "owner": {
+        "reputation": 6,
+        "user_id": 7119448,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/60c7a7eb48afd60f852d525fc4d14236?s=128&d=identicon&r=PG&f=1",
+        "display_name": "kieranw",
+        "link": "https://stackoverflow.com/users/7119448/kieranw"
+      },
+      "is_answered": true,
+      "view_count": 4270,
+      "accepted_answer_id": 40441233,
+      "answer_count": 3,
+      "score": -4,
+      "last_activity_date": 1478367862,
+      "creation_date": 1478367186,
+      "last_edit_date": 1478367419,
+      "question_id": 40441209,
+      "link": "https://stackoverflow.com/questions/40441209/typeerror-unsupported-operand-types-for-int-and-str",
+      "title": "TypeError: unsupported operand type(s) for +=: &#39;int&#39; and &#39;str&#39;"
+    },
+    {
+      "tags": [
+        "python-3.x"
+      ],
+      "owner": {
+        "reputation": 12,
+        "user_id": 7112699,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/536a7760754b61bfddbf12555b959cc2?s=128&d=identicon&r=PG&f=1",
+        "display_name": "maaier",
+        "link": "https://stackoverflow.com/users/7112699/maaier"
+      },
+      "is_answered": true,
+      "view_count": 30,
+      "accepted_answer_id": 40413988,
+      "answer_count": 1,
+      "score": 1,
+      "last_activity_date": 1478223254,
+      "creation_date": 1478221744,
+      "question_id": 40413789,
+      "link": "https://stackoverflow.com/questions/40413789/typeerror-unsupported-operand-types-for-int-and-str-when-creating-b",
+      "title": "&quot;TypeError: unsupported operand type(s) for +: &#39;int&#39; and &#39;str&#39; &quot; when creating basic calculator(sum only)"
+    },
+    {
+      "tags": [
+        "python"
+      ],
+      "owner": {
+        "reputation": 6,
+        "user_id": 7080118,
+        "user_type": "registered",
+        "profile_image": "https://lh6.googleusercontent.com/-MULP0FkKo1Q/AAAAAAAAAAI/AAAAAAAAANE/aPpcTbU3LAA/photo.jpg?sz=128",
+        "display_name": "user7080118",
+        "link": "https://stackoverflow.com/users/7080118/user7080118"
+      },
+      "is_answered": true,
+      "view_count": 79,
+      "closed_date": 1477568967,
+      "answer_count": 1,
+      "score": -4,
+      "last_activity_date": 1477569290,
+      "creation_date": 1477568709,
+      "last_edit_date": 1477569290,
+      "question_id": 40283796,
+      "link": "https://stackoverflow.com/questions/40283796/typeerror-unsupported-operand-types-for-int-and-str-python",
+      "closed_reason": "duplicate",
+      "title": "TypeError: unsupported operand type(s) for -: &#39;int&#39; and &#39;str&#39; (python)"
+    },
+    {
+      "tags": [
+        "python"
+      ],
+      "owner": {
+        "reputation": 8,
+        "user_id": 6854420,
+        "user_type": "registered",
+        "profile_image": "https://graph.facebook.com/340632802936468/picture?type=large",
+        "display_name": "Tyler Mathis",
+        "link": "https://stackoverflow.com/users/6854420/tyler-mathis"
+      },
+      "is_answered": true,
+      "view_count": 47,
+      "accepted_answer_id": 39599661,
+      "answer_count": 2,
+      "score": -1,
+      "last_activity_date": 1474725260,
+      "creation_date": 1474389832,
+      "last_edit_date": 1474391500,
+      "question_id": 39599596,
+      "link": "https://stackoverflow.com/questions/39599596/adding-numbers-in-a-list-gives-typeerror-unsupported-operand-types-for-in",
+      "title": "Adding numbers in a list gives TypeError: unsupported operand type(s) for +: &#39;int&#39; and &#39;str&#39;"
+    },
+    {
+      "tags": [
+        "python",
+        "python-3.x"
+      ],
+      "owner": {
+        "reputation": 6,
+        "user_id": 6696782,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/455678773e9b8b9b9b8d8e5723864154?s=128&d=identicon&r=PG&f=1",
+        "display_name": "CCUresti15",
+        "link": "https://stackoverflow.com/users/6696782/ccuresti15"
+      },
+      "is_answered": false,
+      "view_count": 33,
+      "answer_count": 1,
+      "score": 1,
+      "last_activity_date": 1470763128,
+      "creation_date": 1470761933,
+      "last_edit_date": 1470762094,
+      "question_id": 38856565,
+      "link": "https://stackoverflow.com/questions/38856565/line-110-in-module-typeerror-unsupported-operand-types-for-int-and",
+      "title": "**line 110, in &lt;module&gt; TypeError: unsupported operand type(s) for +: &#39;int&#39; and &#39;str&#39;"
+    },
+    {
+      "tags": [
+        "python",
+        "tweepy"
+      ],
+      "owner": {
+        "reputation": 87,
+        "user_id": 975507,
+        "user_type": "registered",
+        "accept_rate": 67,
+        "profile_image": "https://www.gravatar.com/avatar/0fd59220efdf46d0fb39eeb7723c054f?s=128&d=identicon&r=PG",
+        "display_name": "N.P",
+        "link": "https://stackoverflow.com/users/975507/n-p"
+      },
+      "is_answered": false,
+      "view_count": 84,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1469238325,
+      "creation_date": 1469223908,
+      "last_edit_date": 1469238325,
+      "question_id": 38535687,
+      "link": "https://stackoverflow.com/questions/38535687/streaming-with-tweepy-randomly-getting-typeerror-unsupported-operand-types",
+      "title": "Streaming with Tweepy: randomly getting &#39;TypeError: unsupported operand type(s) for +: &#39;int&#39; and &#39;str&#39;"
+    },
+    {
+      "tags": [
+        "python"
+      ],
+      "owner": {
+        "reputation": 4,
+        "user_id": 6483578,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/d7a54d0bf8bd94e3752f07d65d166325?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Nork",
+        "link": "https://stackoverflow.com/users/6483578/nork"
+      },
+      "is_answered": true,
+      "view_count": 534,
+      "closed_date": 1466284787,
+      "answer_count": 3,
+      "score": -4,
+      "last_activity_date": 1466273232,
+      "creation_date": 1466272433,
+      "last_edit_date": 1466272478,
+      "question_id": 37900002,
+      "link": "https://stackoverflow.com/questions/37900002/typeerror-unsupported-operand-types-for-int-and-str-when-adding",
+      "closed_reason": "duplicate",
+      "title": "TypeError: unsupported operand type(s) for +: &#39;int&#39; and &#39;str&#39; when adding"
+    },
+    {
+      "tags": [
+        "python",
+        "string",
+        "int"
+      ],
+      "owner": {
+        "reputation": 3,
+        "user_id": 6293020,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/15c0f0d55bfec2084af80d02d7d6842a?s=128&d=identicon&r=PG&f=1",
+        "display_name": "tmoKSU",
+        "link": "https://stackoverflow.com/users/6293020/tmoksu"
+      },
+      "is_answered": true,
+      "view_count": 40,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1462401525,
+      "creation_date": 1462400546,
+      "last_edit_date": 1462401525,
+      "question_id": 37039064,
+      "link": "https://stackoverflow.com/questions/37039064/keep-getting-error-code-typeerror-unsupported-operand-types-for-int-an",
+      "title": "Keep getting error code - TypeError: unsupported operand type(s) for -: &#39;int&#39; and &#39;str&#39;"
+    },
+    {
+      "tags": [
+        "python",
+        "typeerror"
+      ],
+      "owner": {
+        "reputation": 3,
+        "user_id": 4711817,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/db3be1ce6e14a0fef0c2e7c0f89917f0?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Kamran",
+        "link": "https://stackoverflow.com/users/4711817/kamran"
+      },
+      "is_answered": true,
+      "view_count": 2605,
+      "accepted_answer_id": 29261717,
+      "answer_count": 3,
+      "score": -1,
+      "last_activity_date": 1461087915,
+      "creation_date": 1427301882,
+      "last_edit_date": 1427307632,
+      "question_id": 29261566,
+      "link": "https://stackoverflow.com/questions/29261566/python-typeerror-unsupported-operand-types-for-int-and-str",
+      "title": "Python TypeError: unsupported operand type(s) for +: &#39;int&#39; and &#39;str&#39;"
+    },
+    {
+      "tags": [
+        "python",
+        "sum",
+        "typeerror",
+        "operand",
+        "operands"
+      ],
+      "owner": {
+        "reputation": 29,
+        "user_id": 4238130,
+        "user_type": "registered",
+        "accept_rate": 80,
+        "profile_image": "https://i.stack.imgur.com/LV9Pe.jpg?s=128&g=1",
+        "display_name": "Nathaniel Brown",
+        "link": "https://stackoverflow.com/users/4238130/nathaniel-brown"
+      },
+      "is_answered": true,
+      "view_count": 4204,
+      "accepted_answer_id": 26923566,
+      "answer_count": 5,
+      "score": 2,
+      "last_activity_date": 1461087891,
+      "creation_date": 1415942559,
+      "last_edit_date": 1416102110,
+      "question_id": 26923445,
+      "link": "https://stackoverflow.com/questions/26923445/sum-function-prob-typeerror-unsupported-operand-types-for-int-and-str",
+      "title": "Sum function prob TypeError: unsupported operand type(s) for +: &#39;int&#39; and &#39;str&#39;"
+    },
+    {
+      "tags": [
+        "python"
+      ],
+      "owner": {
+        "reputation": 6,
+        "user_id": 4930988,
+        "user_type": "registered",
+        "profile_image": "https://graph.facebook.com/921392881256998/picture?type=large",
+        "display_name": "Pratham Arora",
+        "link": "https://stackoverflow.com/users/4930988/pratham-arora"
+      },
+      "is_answered": true,
+      "view_count": 44,
+      "answer_count": 3,
+      "score": -3,
+      "last_activity_date": 1459362930,
+      "creation_date": 1459362104,
+      "last_edit_date": 1459362749,
+      "question_id": 36316718,
+      "link": "https://stackoverflow.com/questions/36316718/my-code-shows-error-typeerror-unsupported-operand-types-for-int-and-st",
+      "title": "My code shows error TypeError: unsupported operand type(s) for +=: &#39;int&#39; and &#39;str&#39;"
+    },
+    {
+      "tags": [
+        "python"
+      ],
+      "owner": {
+        "reputation": 3,
+        "user_id": 5993941,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/9d7fd7fd95bedb4b8bd79bef78889aa1?s=128&d=identicon&r=PG",
+        "display_name": "Antonio Moscariello",
+        "link": "https://stackoverflow.com/users/5993941/antonio-moscariello"
+      },
+      "is_answered": true,
+      "view_count": 607,
+      "closed_date": 1456786538,
+      "accepted_answer_id": 35711246,
+      "answer_count": 2,
+      "score": -3,
+      "last_activity_date": 1456786398,
+      "creation_date": 1456785785,
+      "last_edit_date": 1456785807,
+      "question_id": 35711232,
+      "link": "https://stackoverflow.com/questions/35711232/typeerror-unsupported-operand-types-for-int-and-str-how-to-fix",
+      "closed_reason": "duplicate",
+      "title": "TypeError: unsupported operand type(s) for +: &#39;int&#39; and &#39;str&#39; how to fix"
+    },
+    {
+      "tags": [
+        "python",
+        "list",
+        "file",
+        "int",
+        "sum"
+      ],
+      "owner": {
+        "reputation": 1,
+        "user_id": 5874430,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/4a6a362359af65a125bbbcca108980ab?s=128&d=identicon&r=PG&f=1",
+        "display_name": "milahstott",
+        "link": "https://stackoverflow.com/users/5874430/milahstott"
+      },
+      "is_answered": true,
+      "view_count": 78,
+      "answer_count": 3,
+      "score": 0,
+      "last_activity_date": 1454448972,
+      "creation_date": 1454440169,
+      "last_edit_date": 1454440912,
+      "question_id": 35161873,
+      "link": "https://stackoverflow.com/questions/35161873/myfile-writeitem-n-typeerror-unsupported-operand-types-for-int-and",
+      "title": "myFile.write(item+&quot;\\n&quot;) TypeError: unsupported operand type(s) for +: &#39;int&#39; and &#39;str&#39;"
+    },
+    {
+      "tags": [
+        "python"
+      ],
+      "owner": {
+        "reputation": 6,
+        "user_id": 4711723,
+        "user_type": "registered",
+        "profile_image": "https://i.stack.imgur.com/nA3XT.jpg?s=128&g=1",
+        "display_name": "Eli Brierley",
+        "link": "https://stackoverflow.com/users/4711723/eli-brierley"
+      },
+      "is_answered": true,
+      "view_count": 202,
+      "answer_count": 3,
+      "score": 1,
+      "last_activity_date": 1427284945,
+      "creation_date": 1427282285,
+      "last_edit_date": 1427282438,
+      "question_id": 29254182,
+      "link": "https://stackoverflow.com/questions/29254182/typeerror-unsupported-operand-types-for-int-and-str-error",
+      "title": "TypeError: unsupported operand type(s) for +: &#39;int&#39; and &#39;str&#39; error"
+    },
+    {
+      "tags": [
+        "python",
+        "matplotlib"
+      ],
+      "owner": {
+        "reputation": 31,
+        "user_id": 4106940,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://www.gravatar.com/avatar/645910a11198bcd4cbe93af5899b33d4?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Tazza2092",
+        "link": "https://stackoverflow.com/users/4106940/tazza2092"
+      },
+      "is_answered": true,
+      "view_count": 490,
+      "accepted_answer_id": 28857867,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1425481814,
+      "creation_date": 1425479962,
+      "question_id": 28857212,
+      "link": "https://stackoverflow.com/questions/28857212/typeerror-unsupported-operand-types-for-int-and-str-when-making-bar-gr",
+      "title": "TypeError: unsupported operand type(s) for +: &#39;int&#39; and &#39;str&#39; when making bar graph"
+    }
+  ],
+  "has_more": true,
+  "quota_max": 10000,
+  "quota_remaining": 9920
+}
+Overview
+Authentication
+Javascript SDK
+Batching Requests
+Complex Queries
+Duplicate Requests
+Filters
+Paging
+Dates
+Numbers
+Compression
+Error Handling
+Response Wrapper
+Rate Limiting
+Users
+Write
+Change Log
+Terms Of Use
+about blog terms of use contact us feedback always welcome
+
+site design / logo © 2017 Stack Exchange, Inc; user contributions licensed under cc by-sa 3.0 with attribution required
